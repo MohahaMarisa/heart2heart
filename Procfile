@@ -1,1 +1,1 @@
-web: node frontend.html
+web: node chat-server.js
